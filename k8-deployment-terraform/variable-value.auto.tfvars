@@ -1,0 +1,6 @@
+project_name = "windy-album-477918-i6"
+location     = "us-central1"
+mechine_type = "e2-medium"
+business_div = "sap"
+env_var      = "dev"
+vpc_name     = "my-custom-vpc-gke"
